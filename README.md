@@ -1,4 +1,4 @@
-### Hi there 👋, Hi there, I am Apu Kumar Chakroborti
+### Hi there 👋, I am Apu Kumar Chakroborti
 #### Full Stack Java Developer
 ![Full Stack Java Developer](https://media.licdn.com/dms/image/D5616AQF2OH9qLx6EeQ/profile-displaybackgroundimage-shrink_350_1400/0/1665839906059?e=1677110400&v=beta&t=VLFjXIKiRP66yeqhETR6Pi1c00anJkg0N7ajMX_QUyg)
 
