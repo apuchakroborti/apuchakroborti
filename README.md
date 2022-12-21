@@ -14,10 +14,7 @@ Skills: Java || Spring Boot || Hibernate || MySQL || Oracle || PostgreSQL || PL/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apuchakroborti)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=apuchakroborti&show_icons=true)  
-
 ![GitHub metrics](https://metrics.lecoq.io/apuchakroborti)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=apuchakroborti)  
 
-![Profile views](https://gpvc.arturio.dev/apuchakroborti)  
